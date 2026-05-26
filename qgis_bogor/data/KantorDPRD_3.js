@@ -1,1 +1,0 @@
-var json_KantorDPRD_3 = {"type":"FeatureCollection","name":"KantorDPRD_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"NAMOBJ":"Kantor DPRD Kota Bogor","REMARK":"Kantor DPRD"},"geometry":{"type":"Point","coordinates":[106.792984638000064,-6.596354279999957]}}]}
