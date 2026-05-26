@@ -1,0 +1,1 @@
+var json_KantorWaliKota_6 = {"type":"FeatureCollection","name":"KantorWaliKota_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"NAMOBJ":"Kantor Walikota Bogor","REMARK":"Kantor Wali Kota"},"geometry":{"type":"Point","coordinates":[106.794165467000084,-6.59533735499997]}}]}
